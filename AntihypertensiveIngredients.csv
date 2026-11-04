@@ -1,0 +1,57 @@
+classId,ingredientConceptId,ingredientName,subclassId
+ACEI,1335471,benazepril,
+ACEI,1340128,captopril,
+ACEI,1341927,enalapril,
+ACEI,1363749,fosinopril,
+ACEI,1308216,lisinopril,
+ACEI,1310756,moexipril,
+ACEI,1373225,perindopril,
+ACEI,1331235,quinapril,
+ACEI,1334456,ramipril,
+ACEI,1342439,trandolapril,
+ARB,40235485,azilsartan,
+ARB,1351557,candesartan,
+ARB,1347384,irbesartan,
+ARB,1367500,losartan,
+ARB,40226742,olmesartan,
+ARB,1317640,telmisartan,
+ARB,1308842,valsartan,
+BB,1319998,acebutolol,
+BB,1314002,atenolol,
+BB,1322081,betaxolol,
+BB,1338005,bisoprolol,
+BB,1346823,carvedilol,
+BB,1386957,labetalol,
+BB,1307046,metoprolol,
+BB,1313200,nadolol,
+BB,1314577,nebivolol,
+BB,1345858,pindolol,
+BB,1353766,propranolol,
+DCCB,1332418,amlodipine,
+DCCB,1353776,felodipine,
+DCCB,1326012,isradipine,
+DCCB,1318137,nicardipine,
+DCCB,1318853,nifedipine,
+DCCB,1319880,nisoldipine,
+NDCCB,1328165,diltiazem,
+NDCCB,1307863,verapamil,
+OTHER,1317967,aliskiren,Direct renin inhibitor
+OTHER,991382,amiloride,Potassium-sparing diuretic
+OTHER,932745,bumetanide,Loop diuretic
+OTHER,1398937,clonidine,Central alpha-2 agonist
+OTHER,1363053,doxazosin,Alpha-1 blocker
+OTHER,1309799,eplerenone,Mineralocorticoid receptor antagonist
+OTHER,956874,furosemide,Loop diuretic
+OTHER,1344965,guanfacine,Central alpha-2 agonist
+OTHER,1373928,hydralazine,Direct vasodilator
+OTHER,1305447,methyldopa,Central alpha-2 agonist
+OTHER,1309068,minoxidil,Direct vasodilator
+OTHER,1350489,prazosin,Alpha-1 blocker
+OTHER,970250,spironolactone,Mineralocorticoid receptor antagonist
+OTHER,1341238,terazosin,Alpha-1 blocker
+OTHER,942350,torsemide,Loop diuretic
+OTHER,904542,triamterene,Potassium-sparing diuretic
+TD,1395058,chlorthalidone,
+TD,974166,hydrochlorothiazide,
+TD,978555,indapamide,
+TD,907013,metolazone,
